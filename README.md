@@ -17,14 +17,14 @@ After a player clears a dungeon they will be sent to a store where they can spen
 * treasure hidden throughout the level
 
 ## Architecture and Technologies
-    * Technology 1
-        * Description
-        * Justification
-    * Technology 2
-        * Description
-        * Justification
-    ...
+
+* Vanilla javascript
+    * Used for gamelogic
+* Canvas
+    * Used for rendering 
+* Howler.js
+    * Creating sound effects for different actions
+    * play music in the background
+
 ## Implementation Timeline
-    * Most important category
-    * Daily breakdown
-    * Aim to be done by Friday
+
