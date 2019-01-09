@@ -8,7 +8,13 @@ After a player clears a dungeon they will be sent to a store where they can spen
 
 ## Functionality and MVP Features
 
-
+* Each dungeon level will be randomly generated
+* level starts hidden and players reveal map as they explore
+* Monsters will be randomly spawned on the map
+* Players will use arrow keys to move around the dungeon
+* Players use space bar to attack and x to switch weapons
+* the player must kill all monsters to clear the level
+* treasure hidden throughout the level
 
 ## Architecture and Technologies
     * Technology 1
