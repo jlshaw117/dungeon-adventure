@@ -1,0 +1,19 @@
+{
+  "name": "dungeon_adventure",
+  "version": "1.0.0",
+  "description": "Top down dungeon crawl with rpg aspects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlshaw117/dungeon-adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlshaw117/dungeon-adventure/issues"
+  },
+  "homepage": "https://github.com/jlshaw117/dungeon-adventure#readme"
+}
