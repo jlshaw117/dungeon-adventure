@@ -18,8 +18,13 @@ After a player clears a dungeon they will be sent to a store where they can spen
 
 ## Wire Frame
 
-![Page Layout] (src/javascript_project_layout.jpg)
+### splash page layout
 
+![Page Layout](src/images/javascript_project_layout.jpeg)
+
+### Inventory
+
+![Inventory](src/images/inventory.jpg)
 ## Architecture and Technologies
 
 * Vanilla javascript
@@ -45,23 +50,23 @@ After a player clears a dungeon they will be sent to a store where they can spen
 - [ ] Finish splash page design
 - [ ] Finish map generation
 
-### Fri 01/11/19
+#### Fri 01/11/19
 
 - [ ] Render map in game view
 - [ ] Place hero sprite in the middle of view
 - [ ] be able to move hero
 
-### Sat 01/12/19
+#### Sat 01/12/19
 
 - [ ] Add logic to prevent player from moving through wall
 - [ ] Add enemies to map
 
-### Sun 01/12/19
+#### Sun 01/12/19
 
 - [ ] Implement Player combat
 - [ ] Implement Ai movment and combat
 
-### Mon 01/13/19
+#### Mon 01/13/19
 
 - [ ] Implement store between levels
 - [ ] Level tracker
