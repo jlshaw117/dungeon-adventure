@@ -20,11 +20,11 @@ After a player clears a dungeon they will be sent to a store where they can spen
 
 ### splash page layout
 
-![Page Layout](src/images/javascript_project_layout.jpeg)
+![Page Layout](src/images/layout.jpeg)
 
 ### Inventory
 
-![Inventory](src/images/inventory.jpg)
+![Inventory](src/images/inventory.jpeg)
 ## Architecture and Technologies
 
 * Vanilla javascript
