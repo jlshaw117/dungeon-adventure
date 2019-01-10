@@ -2,7 +2,7 @@
   "name": "dungeon_adventure",
   "version": "1.0.0",
   "description": "Top down dungeon crawl with rpg aspects",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jlshaw117/dungeon-adventure/issues"
   },
-  "homepage": "https://github.com/jlshaw117/dungeon-adventure#readme"
+  "homepage": "https://github.com/jlshaw117/dungeon-adventure#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.28.1",
+    "webpack-cli": "^3.2.1"
+  }
 }
