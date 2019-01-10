@@ -1,0 +1,12 @@
+header {
+    background: red;
+}
+
+.main {
+    display: flex;
+    border: 1px solid black;
+}
+
+.main-left {
+    border: 1px solid blue;
+}
