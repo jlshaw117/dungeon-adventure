@@ -1,11 +1,9 @@
-import _ from 'lodash';
+// import _ from 'lodash';
 
-function component() {
-    let element = document.createElement('div');
+document.addEventListener('DOMContentLoaded', () => {
+    const root = document.getElementById('root');
 
-    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
+    root.innerHTML = 'Dungeon Adventure';
 
-    return element;
-}
+});
 
-document.body.appendChild(component());
