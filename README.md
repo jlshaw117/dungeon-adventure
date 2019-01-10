@@ -24,7 +24,7 @@ After a player clears a dungeon they will be sent to a store where they can spen
 
 ### Inventory
 
-![Inventory](src/images/inventory.jpeg)
+![Inventory](src/images/Inventory.jpeg)
 ## Architecture and Technologies
 
 * Vanilla javascript
